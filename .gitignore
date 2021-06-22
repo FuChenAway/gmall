@@ -1,6 +1,9 @@
 .idea/
 *.iml
 target/
+mvnw*
+.mvn/
+
 
 # Compiled class file
 *.class
@@ -29,3 +32,15 @@ gmall-common/src/main/resources/
 gmall-common/src/test/
 /.idea/
 /.idea/
+gmall-generator/src/test/java/io/
+gmall-oms/src/main/resources/static/
+gmall-oms/src/main/resources/templates/
+gmall-pms/src/main/resources/static/
+gmall-pms/src/main/resources/templates/
+gmall-sms/src/main/resources/static/
+gmall-sms/src/main/resources/templates/
+gmall-ums/src/main/resources/static/
+gmall-ums/src/main/resources/templates/
+gmall-wms/src/main/resources/static/
+gmall-wms/src/main/resources/templates/
+/gmall-gateway/.mvn/
